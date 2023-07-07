@@ -5,6 +5,7 @@ I'm currently learning Python and SQL for Data Science. Check out my projects
 found in my portfolio!
 
 ABOUT ME SUMMARY
+
 🧪 Chemistry background (MS Graduate). It's where I started my fascination with statistics and, eventually, data.
 Loves working with data and numbers, especially in the field of science and finance.
 I keep learning new skills. taught myself how to Python, SQL, for Data Science
