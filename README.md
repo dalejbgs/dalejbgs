@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
-**dalejbgs/dalejbgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dale, a self-taught aspiring Data Scientist. 
+I'm currently learning Python and SQL for Data Science. Check out my projects
+found in my portfolio!
 
-Here are some ideas to get you started:
+ABOUT ME SUMMARY
+🧪 Chemistry background (MS Graduate). It's where I started my fascination with statistics and, eventually, data.
+Loves working with data and numbers, especially in the field of science and finance.
+I keep learning new skills. taught myself how to Python, SQL, for Data Science
+I love learning about statistics and explaining graphs. for some reason it makes me feel smart LOL
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
